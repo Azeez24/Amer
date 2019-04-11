@@ -128,7 +128,7 @@ mkdir /sdcard/Virus4/Encrypt
 
 cd
 
-git clone https://github.com/amerlaceset/Virus
+git clone https://github.com/Azeez24/Amer
 
 cd
 
